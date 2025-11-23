@@ -8,11 +8,14 @@ The folders are numbered according to their increasing order of difficulty. For 
 
 I have covered the following topics in this repository:
 
+
+### 1. Basics
+
 1. Probablity - Added
 
 2. Statistics - Added
 
-3. Regression - In Progress
+3. Regression - Added, Logistic Regression in progress
 
 4. Clustering
 
@@ -30,15 +33,25 @@ I have covered the following topics in this repository:
 
 11. Deep Neural Networks
 
-12. Autoencoders and Transformers
 
-13. Vision and Natural Language Processing
+### Topics on Applied Machine Learning and AI
 
-14. Reinforcement learning
+1. Autoencoders and Transformers
 
-15. Transfer learning and fine tuning
+2. Vision and Natural Language Processing
 
-16. Basics of computational neuroscience
+3. Reinforcement learning
+
+4. Transfer learning and fine tuning
+
+5. Large Language Models
+
+6. Agents and Agentic Pipeline
+
+
+### Topics on Computation Neuroscience
+
+1. Basics of computational neuroscience
 
 
 ## Prerequisites
